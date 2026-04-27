@@ -30,28 +30,28 @@
 
 ## 📌 Featured Projects
 
-### 🔐 Smart Door System (Embedded Systems) | [GitHubRepo] ()
+### 🔐 Smart Door System (Embedded Systems) | [GitHubRepo](https://github.com/AHZ404/EmbeddedSystemsProject)
 `C` `Tiva C` `EEPROM` `LCD` `Servo` `Keypad`
 
 - Multi-user password storage in EEPROM (up to 10 profiles)
 - 3-attempt lockout with buzzer alarm & 30‑sec shutdown
 - Adjustable lock timing (5–60 sec) and LCD brightness (0–100%)
 
-### 🎮 Multi-Player Game (Computer Networks) | [GitHubRepo] (https://github.com/AHZ404/NetworkProject)
+### 🎮 Multi-Player Game (Computer Networks) | [GitHubRepo](https://github.com/AHZ404/NetworkProject)
 `Python` `Sockets` `Client-Server` `TCP`
 
 - 20×20 tile board game supporting 1–4 simultaneous players
 - Handled 50+ concurrent game events over TCP
 - Random power‑up system enabling tile‑theft mechanics
 
-### 🏫 University Management System (Agile) | [GitHubRepo] (https://github.com/AHZ404/AgileSoftwareTeam19)
+### 🏫 University Management System (Agile) | [GitHubRepo](https://github.com/AHZ404/AgileSoftwareTeam19)
 `React` `SQL` `Jira` `Scrum`
 
 - Full‑stack UMS delivered across 4 one‑week sprints (team of 5)
 - 92% sprint completion rate using Jira for task tracking & bug assignment
 - 15+ entity relationships in SQL backend
 
-### 💬 Reddit Clone (Web Development)
+### 💬 Reddit Clone (Web Development) | [GitHubRepo](https://github.com/AHZ404/WebDevProject)
 `React` `Node.js` `Express` `SQL` `REST API` `GitHub Pages`
 
 - User posts, comments, upvotes with responsive React frontend
@@ -59,7 +59,7 @@
 - Integrated AI API for 2‑3 sentence post summaries (reduces length by 70–80%)
 - Cached summaries in SQL to minimize token usage
 
-### 😷 Face Mask Detection (Machine Learning)  | [GitHubRepo] (https://github.com/mansourr10/Face-Mask-Detector-)
+### 😷 Face Mask Detection (Machine Learning)  | [GitHubRepo](https://github.com/mansourr10/Face-Mask-Detector-)
 `Python` `Scikit-learn` `OpenCV` `SVM` `Random Forest`
 
 - Compared SVM (92.3% accuracy), Random Forest, Logistic Regression

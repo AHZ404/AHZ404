@@ -2,33 +2,43 @@
 
 🎓 Computer Engineering student at Ain Shams University (4th year of 5-year program)  
 🔍 Seeking **Software Development**, **Data Science**, or **ML Engineering** internship for Summer 2026  
-📍 Cairo, Egypt | [Linkedin](https://www.linkedin.com/in/ahmedhazem2004/) | [GitHub](https://github.com/AHZ404) | [Email](mailto:ahmedhazem200411@gmail.com)
+📍 Cairo, Egypt | [Linkedin](https://www.linkedin.com/in/ahmedhkhalil04/) | [GitHub](https://github.com/AHZ404) | [Email](mailto:ahmedhkhalil04@gmail.com)
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages**  
-`Python` `C/C++` `Java` `SQL` `JavaScript` `Verilog` `VHDL`
+`Python` `C/C++` `Java` `SQL` `JavaScript` `Verilog` `VHDL` `Bash`
 
 **Frameworks & Libraries**  
-`React` `Node.js` `NLTK` `Scikit-learn` `OpenCV`
+`React` `Node.js` `NLTK` `Scikit-learn` `OpenCV` `PyTest`
 
 **Tools & Platforms**  
-`Git` `GitHub` `MATLAB` `VS Code` `Linux (Ubuntu)` `Keil uVision`
+`AWS` `CloudFormation` `GitHub Actions` `Git` `GitHub` `Linux (Ubuntu)` `VS Code` `MATLAB` `Keil uVision`
 
 **Databases**  
-`SQL` `MongoDB` `MySQL` `SQLite`
+`MySQL` `SQL` `MongoDB` `SQLite`
+
+**Cloud & Infrastructure**  
+`Infrastructure as Code (IaC)` `CI/CD Pipelines` `Multi-AZ Architecture` `Security Group Routing`
 
 **Data Science & ML**  
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `HOG` `SVM` `Random Forest` `Logistic Regression` `Hyperparameter Tuning`
 
 **Methodologies**  
-`Agile` `Scrum` `REST API` `Unit Testing (JUnit/PyTest)`
+`Agile` `Scrum` `REST API` `Unit Testing (JUnit/PyTest)` `Static Code Analysis`
 
 ---
 
 ## 📌 Featured Projects
+
+### ☁️ Enterprise Compute & Database Stack (Cloud Computing) | [GitHubRepo](https://github.com/Nour22P0040/Cloud-Project)
+`AWS` `CloudFormation` `CI/CD` `GitHub Actions` `MySQL` `Bash` `PyTest`
+
+- Architected highly available AWS infrastructure across multiple Availability Zones using CloudFormation, deploying public/private subnets, dual NAT Gateways, Multi-AZ RDS MySQL, and an Application Load Balancer[cite: 1, 5]
+- Built GitHub Actions CI/CD pipelines to automate pre-deployment static analysis (`cfn-lint`, `checkov`), template validation, and post-deployment `pytest` integration testing[cite: 6, 7, 8]
+- Developed automated shell workflows for provisioning and safe teardown with strict resource cleanup and security group rules[cite: 1, 3, 4, 9]
 
 ### 🔐 Smart Door System (Embedded Systems) | [GitHubRepo](https://github.com/AHZ404/EmbeddedSystemsProject)
 `C` `Tiva C` `EEPROM` `LCD` `Servo` `Keypad`
@@ -70,7 +80,7 @@
 
 ## 📚 Relevant Coursework
 
-Data Structures & Algorithms | OS | Computer Architecture | OOP | Databases | Networks | Embedded Systems | Distributed Computing | Compiler Design | AI/ML/DL | NLP | Agile
+Data Structures & Algorithms | OS | Computer Architecture | OOP | Databases | Networks | Embedded Systems | Distributed Computing | Compiler Design | AI/ML/DL | NLP | Agile | Cloud Computing
 
 ---
 
@@ -82,4 +92,4 @@ Data Structures & Algorithms | OS | Computer Architecture | OOP | Databases | Ne
 ---
 
 📫 **Reach out**:  
-[GitHub](https://github.com/AHZ404) • [Email](mailto:ahmedhazem200411@gmail.com) • [Linkedin](https://www.linkedin.com/in/ahmedhazem2004/)
+[GitHub](https://github.com/AHZ404) • [Email](mailto:ahmedhkhalil04@gmail.com) • [Linkedin](https://www.linkedin.com/in/ahmedhkhalil04/)

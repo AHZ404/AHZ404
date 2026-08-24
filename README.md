@@ -87,7 +87,7 @@ Data Structures & Algorithms | OS | Computer Architecture | OOP | Databases | Ne
 ## 🌱 Currently
 
 - Deepening knowledge in **ML Engineering** and **Distributed Systems**
-- Available for **Summer 2026 full‑time internship** (before returning for my final 5th year)
+- Available for **2026 full‑time internship**
 
 ---
 

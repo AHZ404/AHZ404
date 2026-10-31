@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Hazem
 
 🎓 Computer Engineering student at Ain Shams University (4th year of 5-year program)  
-🔍 Seeking **Software Development**, **Data Science**, or **ML Engineering** internship for Summer 2026  
+🔍 **Software Development**  |  **Data Science**  |  **ML Engineering**  
 📍 Cairo, Egypt | [Linkedin](https://www.linkedin.com/in/ahmedhkhalil04/) | [GitHub](https://github.com/AHZ404) | [Email](mailto:ahmedhkhalil04@gmail.com)
 
 ---

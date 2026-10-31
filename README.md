@@ -49,20 +49,6 @@
 - Integrated Groq for low-latency agent reasoning and HuggingFace models for dense vector embeddings
 - Developed an interactive Streamlit UI displaying real-time agent routing metrics, confidence scores, and robust error handling
 
-### 🔐 Smart Door System (Embedded Systems) | [GitHubRepo](https://github.com/AHZ404/EmbeddedSystemsProject)
-`C` `Tiva C` `EEPROM` `LCD` `Servo` `Keypad`
-
-- Multi-user password storage in EEPROM (up to 10 profiles)
-- 3-attempt lockout with buzzer alarm & 30‑sec shutdown
-- Adjustable lock timing (5–60 sec) and LCD brightness (0–100%)
-
-### 🎮 Multi-Player Game (Computer Networks) | [GitHubRepo](https://github.com/AHZ404/NetworkProject)
-`Python` `Sockets` `Client-Server` `TCP`
-
-- 20×20 tile board game supporting 1–4 simultaneous players
-- Handled 50+ concurrent game events over TCP
-- Random power‑up system enabling tile‑theft mechanics
-
 ### 🏫 University Management System (Agile) | [GitHubRepo](https://github.com/AHZ404/AgileSoftwareTeam19)
 `React` `SQL` `Jira` `Scrum`
 
@@ -84,6 +70,20 @@
 - Compared SVM (92.3% accuracy), Random Forest, Logistic Regression
 - HOG feature extraction from 5,000+ face images (80/20 split)
 - Real‑time face detection + classification with OpenCV
+
+### 🎮 Multi-Player Game (Computer Networks) | [GitHubRepo](https://github.com/AHZ404/NetworkProject)
+`Python` `Sockets` `Client-Server` `TCP`
+
+- 20×20 tile board game supporting 1–4 simultaneous players
+- Handled 50+ concurrent game events over TCP
+- Random power‑up system enabling tile‑theft mechanics
+
+### 🔐 Smart Door System (Embedded Systems) | [GitHubRepo](https://github.com/AHZ404/EmbeddedSystemsProject)
+`C` `Tiva C` `EEPROM` `LCD` `Servo` `Keypad`
+
+- Multi-user password storage in EEPROM (up to 10 profiles)
+- 3-attempt lockout with buzzer alarm & 30‑sec shutdown
+- Adjustable lock timing (5–60 sec) and LCD brightness (0–100%)
 
 ---
 

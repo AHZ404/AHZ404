@@ -40,6 +40,15 @@
 - Built GitHub Actions CI/CD pipelines to automate pre-deployment static analysis (`cfn-lint`, `checkov`), template validation, and post-deployment `pytest` integration testing[cite: 6, 7, 8]
 - Developed automated shell workflows for provisioning and safe teardown with strict resource cleanup and security group rules[cite: 1, 3, 4, 9]
 
+### 🤖 Multi-Agent AI Customer Support System | [GitHubRepo](https://github.com/AHZ404/Multi-AgentChatBot)
+`Python` `LangChain` `PyTorch` `Groq` `FAISS` `Streamlit` `HuggingFace`
+
+- Designed a multi-agent support architecture using LangChain with dynamic routing and multi-turn context management
+- Trained a PyTorch BiLSTM intent classifier on Banking77 with OOV guardrails and a 40% confidence fallback threshold
+- Built domain-specific RAG pipelines using FAISS vector stores alongside custom tool execution schemas for live operational actions
+- Integrated Groq for low-latency agent reasoning and HuggingFace models for dense vector embeddings
+- Developed an interactive Streamlit UI displaying real-time agent routing metrics, confidence scores, and robust error handling
+
 ### 🔐 Smart Door System (Embedded Systems) | [GitHubRepo](https://github.com/AHZ404/EmbeddedSystemsProject)
 `C` `Tiva C` `EEPROM` `LCD` `Servo` `Keypad`
 
